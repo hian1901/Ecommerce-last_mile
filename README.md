@@ -3,7 +3,7 @@
 
 ## 📌 Executive Summary
 
-This end-to-end business intelligence case study was built using **Power BI Project (`.pbip`)** with a Kimball **Star Schema (`Dim_Date`)** and 100% **Explicit DAX Measures**.
+This end-to-end business intelligence case study was built using **Power BI Project (`.pbix`)** with a Kimball **Star Schema (`Dim_Date`)** and 100% **Explicit DAX Measures**.
 
 Analyzing **113,270 customer orders** (**$23.16M revenue** and **$2.61M net profit**), this report addresses 3 fundamental management questions structured around: **Core Business Question $\rightarrow$ Empirical Data Proof $\rightarrow$ Key Findings $\rightarrow$ Strategic Recommendations**.
 
